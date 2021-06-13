@@ -1,0 +1,6 @@
+
+# Information about the Theme 
+    this is theme is basd on Dark theme . this will the help the developer to  do programming at night without getting any eye problem 
+
+# Version 
+    This is the first offcial Version of the theme 
