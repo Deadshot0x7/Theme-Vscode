@@ -1,0 +1,40 @@
+{
+    "name": "semicolonpy",
+    "displayName": "semicolon.py",
+    "description": "A theme created by the Deadshot0x7 ",
+    "version": "1.0.1",
+    "publisher": "Deadshot0x7",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+        
+
+
+    ],
+    "keywords": [
+        "Theme",
+        "Dark Theme",
+        "ironman",
+        "semicolon.py",
+        "Deadshot0x7",
+        "hiteshchoudary"
+    ],
+    
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/benjaminbenais/copilot-theme"
+      },
+    
+    "icon":"semicolon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "semicolon.py",
+                "uiTheme": "vs-dark",
+                "path": "./themes/semicolon.py-color-theme.json"
+            }
+        ]
+    }
+}
