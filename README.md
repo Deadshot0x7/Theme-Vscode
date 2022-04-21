@@ -6,3 +6,5 @@
     This is the first offcial Version of the theme 
 # Review 
     Feel Free to write the review of the theme
+# Donation 
+1.[Buy me a coffe](https://www.buymeacoffee.com/Deadshot0x7/semicolon-py)
