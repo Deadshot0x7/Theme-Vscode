@@ -7,4 +7,7 @@
 # Review 
     Feel Free to write the review of the theme
 # Donation 
-1.[Buy me a coffe](https://www.buymeacoffee.com/Deadshot0x7/semicolon-py)
+You can be the part of the development by simpling  domating money . You can use following link to donate 
+* [Buy me coffe](https://www.buymeacoffee.com/Deadshot0x7/semicolon-py)
+* [Ko-fi](https://ko-fi.com/post/Semicolon-py-R6R1IH832)
+* [Paypal](https://www.paypal.com/paypalme/Deadshot0x7)
